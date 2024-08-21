@@ -1,11 +1,8 @@
 {
-  "engines": {
-    "node": "18.18.0"
-  },
   "name": "project",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "<h1>#FlexVisit</h1>\r <p>This is a place visit website Using MERN</p>",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -25,7 +22,7 @@
     "express-session": "^1.18.0",
     "joi": "^17.13.3",
     "method-override": "^3.0.0",
-    "mongoose": "^8.5.1",
+    "mongoose": "^8.5.3",
     "multer": "^1.4.5-lts.1",
     "multer-storage-cloudinary": "^4.0.0",
     "passport": "^0.7.0",
