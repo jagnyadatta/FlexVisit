@@ -1,4 +1,7 @@
 {
+  "engines":{
+    "node": "18.18.0"
+  },
   "name": "project",
   "version": "1.0.0",
   "description": "<h1>#FlexVisit</h1>\r <p>This is a place visit website Using MERN</p>",
