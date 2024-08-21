@@ -6,8 +6,8 @@
   "version": "1.0.0",
   "description": "<h1>#FlexVisit</h1>\r <p>This is a place visit website Using MERN</p>",
   "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+ "scripts": {
+    "start": "node app.js" 
   },
   "keywords": [],
   "author": "Jagnyadatta Dalai",
